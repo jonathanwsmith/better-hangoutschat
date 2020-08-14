@@ -40,9 +40,10 @@
 }
 
 /* Allow messages to display full-width */
-.bzJiD .jGyvbd .QIJiHb, .bzJiD .jGyvbd .zX644e {
+.bzJiD .jGyvbd .QIJiHb, .bzJiD .jGyvbd .zX644e .auHzcc{
     max-width: none;
 }
+
 
 /* Reduce top and bottom padding around date */
 .mCOR5e {
@@ -81,9 +82,7 @@
 .nF6pT, .dsoUjb:not(.WQKmIb) .jO0Dzb.nF6pT {
     padding-top: 4px;
 }
-.WQKmIb  .auHzcc {
-    max-width: 100%;   
-}
+
 
 /* Padding below people's names */
 .NGoCob {
